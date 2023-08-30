@@ -1,4 +1,4 @@
-## _The Office_: IMDB Data Analysis
+## _The Office_ IMDB Rating Analysis
 
 In this project, I utilize Python (pandas, matplotlib) to analyze _The Office_ IMDB ratings as they relate to episode writers, directors, descriptions, and more.
 
